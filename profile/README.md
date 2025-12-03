@@ -1,6 +1,6 @@
-<img src="../images/wattnet-logo-full-dark-transparent-cropped.png" alt="Wattnet Logo" width="300"/>
+<img src="../images/wattnet-logo-full-dark-transparent-cropped.png" alt="Wattnet Logo" width="350"/>
 
-#### An open-source service for tracking the environmental footprint of electricity across Europe.
+### An open-source service for tracking the environmental footprint of electricity across Europe.
 
 Explore the environmental footprint of electricity, powered by open data. Access **real‑time**, **historical**, and **forecasted** indicators on the **carbon** and **water** impact of electricity consumption across Europe.
 
@@ -10,13 +10,11 @@ Wattnet is designed for **researchers**, **developers**, and **decision‑makers
 
 [![GitHub Organization](https://img.shields.io/badge/github.com-wattnet-1D488C?logo=github&logoColor=white)](https://github.com/wattnet)
 
----
-
 ## Funding and acknowledgments
 
 This work is funded by the European Union’s Horizon Europe research and innovation programme through the **[GreenDIGIT](https://greendigit-project.eu/)** project, under grant agreement **[101131207](https://cordis.europa.eu/project/id/101131207)**.
 
-<div align="center">
+<div align="left">
   <img src="../images/EN_FundedbytheEU_RGB_POS.png" alt="EU Funded Logo" width="260"/>
   <img src="../images/GreenDIGIT logo color horizontal2.png" alt="GreenDIGIT Logo" width="230"/>
 </div>
@@ -30,7 +28,5 @@ This work is funded by the European Union’s Horizon Europe research and innova
 ## Trademark Information
 
 The name **WATTNET** and the **Wattnet Logo** are official registered trademarks of the Spanish National Research Council (CSIC), recorded with the European Union Intellectual Property Office (EUIPO). The word mark is registered under [EUTM application no. 019266832](https://euipo.europa.eu/eSearch/#details/trademarks/019266832), and the logo mark under [EUTM application no. 019267422](https://euipo.europa.eu/eSearch/#details/trademarks/019267422).
-
----
 
 ##### © 2025 Spanish National Research Council (CSIC). All rights reserved.
