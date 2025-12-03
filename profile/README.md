@@ -1,4 +1,4 @@
-<img src="../images/wattnet-logo-full-dark-transparent-cropped.png" alt="Wattnet Logo" width="350"/>
+<img src="../images/wattnet-logo-full-dark-transparent-cropped.png" alt="Wattnet Logo" width="300"/>
 
 ### An open-source service for tracking the environmental footprint of electricity across Europe.
 
