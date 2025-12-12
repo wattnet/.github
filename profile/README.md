@@ -1,4 +1,14 @@
-<img src="../images/wattnet-logo-full-dark-transparent-cropped.png" alt="Wattnet Logo" width="300"/>
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github.com/wattnet/.github/raw/main/images/wattnet-logo-full-dark-transparent-cropped.png" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://github.com/wattnet/.github/raw/main/images/wattnet-logo-full-light-transparent-cropped.png" />
+    <img src="https://github.com/wattnet/.github/raw/main/images/wattnet-logo-full-light-transparent-cropped.png"
+         alt="Wattnet Logo"
+         width="300" />
+  </picture>
+</div>
 
 ### An open-source service for tracking the environmental footprint of electricity across Europe.
 
