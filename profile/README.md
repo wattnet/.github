@@ -1,13 +1,18 @@
 <div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://github.com/wattnet/.github/raw/main/images/wattnet-logo-full-dark-transparent-cropped.png" />
+      srcset="https://github.com/wattnet/.github/raw/main/images/wattnet-logo-full-dark-transparent-cropped.png" />
     <source media="(prefers-color-scheme: light)"
-            srcset="https://github.com/wattnet/.github/raw/main/images/wattnet-logo-full-light-transparent-cropped.png" />
+      srcset="https://github.com/wattnet/.github/raw/main/images/wattnet-logo-full-light-transparent-cropped.png" />
     <img src="https://github.com/wattnet/.github/raw/main/images/wattnet-logo-full-light-transparent-cropped.png"
-         alt="Wattnet Logo"
-         width="300" />
+      alt="Wattnet Logo" width="300" />
   </picture>
+  <br><br>
+
+[![GitHub](https://img.shields.io/badge/github.com%2Fwattnet-242424?style=for-the-badge&logo=github&logoColor=white&labelColor=444444)](https://github.com/wattnet)
+[![Website](https://img.shields.io/badge/wattnet.eu-1D488C?style=for-the-badge&logo=leaflet&logoColor=white&labelColor=5374A7)](https://wattnet.eu)
+[![Dashboard](<https://img.shields.io/badge/dashboard_(beta)-94CE24?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=6FCA3A>)](https://dashboard.wattnet.eu)
+
 </div>
 
 ### An open-source service for tracking the environmental footprint of electricity across Europe.
@@ -18,7 +23,7 @@ Wattnet is designed for **researchers**, **developers**, and **decision‑makers
 
 ➡️ Visit our **[official website](https://wattnet.eu)** for more details.
 
-[![GitHub Organization](https://img.shields.io/badge/github.com-wattnet-1D488C?logo=github&logoColor=white)](https://github.com/wattnet)
+[![Website Banner](../images/banner.png)](https://wattnet.eu)
 
 ## Funding and acknowledgments
 
@@ -31,12 +36,12 @@ This work is funded by the European Union’s Horizon Europe research and innova
 
 ## About the Service
 
--   A service provided by the **[Spanish National Research Council (CSIC)](https://www.csic.es)**,
--   Deployed on the **Scientific Cloud** at the **[Institute of Physics of Cantabria (IFCA)](https://ifca.unican.es/)**.
--   Developed by the **[IFCA Advanced Computing and e‑Science Group](https://advancedcomputing.ifca.es)**.
+- A service provided by the **[Spanish National Research Council (CSIC)](https://www.csic.es)**,
+- Deployed on the **Scientific Cloud** at the **[Institute of Physics of Cantabria (IFCA)](https://ifca.unican.es/)**.
+- Developed by the **[IFCA Advanced Computing and e‑Science Group](https://advancedcomputing.ifca.es)**.
 
 ## Trademark Information
 
 The name **WATTNET** and the **Wattnet Logo** are official registered trademarks of the Spanish National Research Council (CSIC), recorded with the European Union Intellectual Property Office (EUIPO). The word mark is registered under [EUTM application no. 019266832](https://euipo.europa.eu/eSearch/#details/trademarks/019266832), and the logo mark under [EUTM application no. 019267422](https://euipo.europa.eu/eSearch/#details/trademarks/019267422).
 
-##### © 2025 Spanish National Research Council (CSIC). All rights reserved.
+##### © 2026 Spanish National Research Council (CSIC). All rights reserved.
