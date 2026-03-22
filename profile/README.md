@@ -21,7 +21,7 @@ Explore the environmental footprint of electricity, powered by open data. Access
 
 Wattnet is designed for **researchers**, **developers**, and **decision‑makers** who rely on accurate, transparent, and reproducible environmental metrics.
 
-➡️ Visit our **[official website](https://wattnet.eu)** for more details.
+➡️ For more details, visit our official website at **[wattnet.eu](https://wattnet.eu)**.
 
 [![Website Banner](../images/banner.png)](https://wattnet.eu)
 
