@@ -29,9 +29,9 @@ Wattnet is designed for **researchers**, **developers**, and **decision‑makers
 
 This work is funded by the European Union’s Horizon Europe research and innovation programme through the **[GreenDIGIT](https://greendigit-project.eu/)** project, under grant agreement **[101131207](https://cordis.europa.eu/project/id/101131207)**, as well as the Swiss State Secretariat for Education, Research and Innovation (SERI).
 
-<img src="../images/GreenDIGIT logo color horizontal2.png" alt="GreenDIGIT Logo" width="165" align="right"/>
+<img src="../images/GreenDIGIT logo color horizontal2.png" alt="GreenDIGIT Logo" width="175" align="right"/>
 <img src="../images/EN_FundedbytheEU_RGB_POS.png" alt="EU Funded Logo" width="195" align="left"/>
-<img src="../images/Flag_of_Switzerland.svg" alt="Swiss State Secretariat for Education, Research and Innovation (SERI)" height="34" align="left"/>
+<img src="../images/Flag_of_Switzerland.svg" alt="Swiss State Secretariat for Education, Research and Innovation (SERI)" height="35" align="left"/>
 <br clear="all"/>
 
 ## About the Service
